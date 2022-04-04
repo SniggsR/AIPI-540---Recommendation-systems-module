@@ -1,7 +1,7 @@
 # AIPI-540---Recommendation-systems-module
 
 
-<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/friends-joey-chandler-rachel-monica-1551614102.jpg" width="200" height="200">
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/friends-joey-chandler-rachel-monica-1551614102.jpg" width="350" height="350">
 
 # HelloFlorida! <br/>
 >Travel recommendation system, based on what you want to do today.
