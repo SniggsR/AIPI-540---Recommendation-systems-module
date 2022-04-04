@@ -1,9 +1,9 @@
 # AIPI-540---Recommendation-systems-module
 
 
-<img src="https://media.giphy.com/gifs/foilarmsandhog-foil-arms-and-hog-fah-sean-finegan-UOzYwtqCc49lTa0MeZ/giphy.gif" width="200" height="200">
+<img src="https://giphy.com/gifs/foilarmsandhog-foil-arms-and-hog-fah-sean-finegan-UOzYwtqCc49lTa0MeZ" width="200" height="200">
 
-# Recommendation System <br/>
+# HelloFlorida! <br/>
 >Travel recommendation system, based on what you want to do today.
 
 
