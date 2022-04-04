@@ -1,0 +1,7 @@
+
+numpy
+pandas
+scikit_learn
+requests
+streamlit
+tqdm
