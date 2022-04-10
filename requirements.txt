@@ -5,3 +5,8 @@ scikit_learn
 requests
 streamlit
 tqdm
+LabelEncoder
+Optim
+DataLoader
+torch
+TensorDataset
