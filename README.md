@@ -7,7 +7,7 @@
 >Travel recommendation system, based on what you want to do today.
 
 
-**Team Members:** Leo Corilli, Snigdha Rudraraju , Kaiqi Meng
+**Team Members:** Leo Corelli, Snigdha Rudraraju , Kaiqi Meng
 
 **Project:** Recommendation system based on content, model based collaborative filtering, and hybrid filtering.
 
