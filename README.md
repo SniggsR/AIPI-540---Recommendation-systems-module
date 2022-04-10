@@ -25,3 +25,8 @@
 ## Output
 
 <img width="705" alt="Screen Shot 2022-04-10 at 2 23 00 PM" src="https://user-images.githubusercontent.com/87940609/162633978-1b6cfcf6-b8b8-447e-93f0-fd0a76fc268e.png">
+
+## Conclusion
+
+<img width="708" alt="Screen Shot 2022-04-10 at 2 28 58 PM" src="https://user-images.githubusercontent.com/87940609/162634155-65a52bb0-1962-46da-aeed-c506132122bb.png">
+
