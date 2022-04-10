@@ -20,7 +20,7 @@ print("PyTorch version: {}".format(torch.__version__))
 print("Cornac version: {}".format(cornac.__version__))
 
 # read data
-df = pd.read_pickle('data/final_dataframe.pkl')
+df = pd.read_pickle('Data/Processed/final_dataframe.pkl')
 
 # choose a subset
 df_new = df.sample(20000)
