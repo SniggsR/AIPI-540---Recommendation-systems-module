@@ -24,7 +24,7 @@
 ## Model Directory:
 [Collaborative Filtering model](https://drive.google.com/file/d/1-1Lb5mmbYT_7bWmaKDBAQTaF71WH9SJH/view?usp=sharing)
 
-[Hybrid filtering model]()
+[Hybrid filtering model](https://drive.google.com/file/d/1h34xf-xV--YpuyHohn2qZvxM0vg5wDiL/view?usp=sharing)
 
 ## How to load models:
 ```
