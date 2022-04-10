@@ -21,6 +21,17 @@
 
 <img width="704" alt="Screen Shot 2022-04-10 at 2 25 29 PM" src="https://user-images.githubusercontent.com/87940609/162634010-4c51e908-0736-4b5d-bff5-61b0feae43c7.png">
 
+## Model Directory:
+[Collaborative Filtering model](https://drive.google.com/file/d/1-1Lb5mmbYT_7bWmaKDBAQTaF71WH9SJH/view?usp=sharing)
+
+[Hybrid filtering model]()
+
+## How to load models:
+```
+file = open(path,'rb') # path is where .pkl file is saved
+model = pickle.load(file) 
+```
+
 
 ## Output
 
