@@ -13,8 +13,6 @@
 
 ## Getting Started
 
-**Data download and processing**
-
 1. Download the data from the site : https://www.yelp.com/dataset
 2. Use the preprocess_data.py to clean the data and get the processed data
 3. Run Hybrid , content and collaborative models to get results
