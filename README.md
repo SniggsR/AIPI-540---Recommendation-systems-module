@@ -13,9 +13,8 @@
 
 ## Getting Started
 
-### Running the Application (User Interface)
+**Data download and processing**
 
-Run the Streamlit interface from root of the project
-
-Here's a detailed explanation of the pipeline for contributing: 
-
+1. Download the data from the site : https://www.yelp.com/dataset
+2. Use the preprocess_data.py to clean the data and get the processed data
+3. Run Hybrid , content and collaborative models to get results
