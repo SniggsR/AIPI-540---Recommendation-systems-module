@@ -59,5 +59,6 @@ def preprocess_data(business_json_path, review_json_path):
 
     ratings = df[["business_id","user_id","review_stars"]]
     business_df_clean = pd.merge(business_df, temporary, on="business_id", how="inner")
+    ratings_df = ratings
 
-    return csmatrix, restaurants_df, df, business_df_clean, ratings
+    return csmatrix, restaurants_df, df, business_df_clean, ratings_df
