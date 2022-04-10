@@ -16,3 +16,11 @@
 1. Download the data from the site : https://www.yelp.com/dataset
 2. Use the preprocess.py in scripts folder to clean the data and get the processed data
 3. Run any of the models uploaded in scripts folder to get results
+
+## Details about data 
+
+<img width="704" alt="Screen Shot 2022-04-10 at 2 25 29 PM" src="https://user-images.githubusercontent.com/87940609/162634010-4c51e908-0736-4b5d-bff5-61b0feae43c7.png">
+
+
+Output
+<img width="705" alt="Screen Shot 2022-04-10 at 2 23 00 PM" src="https://user-images.githubusercontent.com/87940609/162633978-1b6cfcf6-b8b8-447e-93f0-fd0a76fc268e.png">
