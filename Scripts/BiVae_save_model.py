@@ -1,19 +1,4 @@
 
-# mount to drive
-import os
-os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
-from os.path import join
-from google.colab import drive
-
-ROOT = "/content/drive"
-drive.mount(ROOT, force_remount=False)
-
-
-# set directionary 
-%cd /content/drive/"My Drive"/AIPI540_recom/data
-
-
-
 # import package
 import sys
 import os
@@ -35,7 +20,7 @@ print("PyTorch version: {}".format(torch.__version__))
 print("Cornac version: {}".format(cornac.__version__))
 
 # read data
-df = pd.read_pickle('final_dataframe.pkl')
+df = pd.read_pickle('data/final_dataframe.pkl')
 
 # choose a subset
 df_new = df.sample(20000)
