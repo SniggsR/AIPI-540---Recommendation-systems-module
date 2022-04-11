@@ -13,9 +13,7 @@
 
 ## Getting Started
 
-1. Download the data from the site : https://www.yelp.com/dataset
-2. Use the preprocess.py in scripts folder to clean the data and get the processed data
-3. Run any of the models uploaded in scripts folder to get results
+Run main.py file to get results
 
 ## Details about data 
 
